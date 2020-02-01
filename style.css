@@ -28,3 +28,7 @@ img{
   width: 80%;
   text-align: center;
 }
+
+details.center-me {
+  margin:0 auto;
+}
