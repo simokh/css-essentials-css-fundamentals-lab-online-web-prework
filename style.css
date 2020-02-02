@@ -14,7 +14,7 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
-a {
+nav a {
   padding-left: 10px;
   padding-right: 10px;
   background-color: lightgreen;
@@ -24,7 +24,7 @@ img{
   width: 80%;
 }
 
-#featured-property{
+#featured-property p{
   width: 80%;
   text-align: center;
 }
